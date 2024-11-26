@@ -22,7 +22,7 @@ The main script (`M1_GOLD_v1`) performs the following:
 
 ## Usage Instructions
 1. **Install the Script**:
-   - Copy `M1_GOLD_v1` to the `MQL4/Scripts` folder in your MT4 directory.
+   - Copy `M1_GOLD_v1` to the `MQL4/Experts` folder in your MT4 directory.
 2. **Compile the Script**:
    - Open MetaEditor, load the script, and compile it to ensure no errors.
 3. **Run on MT4**:
