@@ -3,8 +3,6 @@ int start()
 
   {
 
-
-
    double lot_buy_01=0.1,lot_sell_01=0.1,lot_buy_02=0.1,lot_sell_02=0.1;
 
    double stoploss=(1000*Point);
@@ -24,18 +22,7 @@ int start()
    double sar_value,bb_up_value,bb_low_value,envel_up_value,envel_low_value,max_bb_envel,min_bb_envel;
 
 
-
- 
-
-
-
-          
-
-                        
-
-      
-
-           
+       
 
       for(int k=total_order-1; k>=0; k--)
 
